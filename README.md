@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Jo-max
+- 👀 I’m interested in Smartmoney
+- 🌱 I’m currently learning Blockchain 
